@@ -6,13 +6,41 @@
 	height: 100%;
 	background: linear-gradient(to bottom right, #ff0066 0%, #3366cc 100%);
 }
-.download1{
+.download{
 	color: linear-gradient(to bottom right, #3333ff 0%, #800000 100%);
 	position: absolute;
 	top: 20%;
 	transform: translateY(-50);
 	z-index: 2;
-
+}
+.download2{
+	color: linear-gradient(to bottom right, #3333ff 0%, #800000 100%);
+	position: absolute;
+	top: 100%;
+	transform: translateY(-50);
+	z-index: 2;
+}
+.download3{
+	color: linear-gradient(to bottom right, #3333ff 0%, #800000 100%);
+	position: absolute;
+	top: 180%;
+	transform: translateY(-50);
+	z-index: 2;
+}
+.download4{
+	color: linear-gradient(to bottom right, #3333ff 0%, #800000 100%);
+	position: absolute;
+	top: 260%;
+	transform: translateY(-50);
+	z-index: 2;
+}
+.download5{
+	color: linear-gradient(to bottom right, #3333ff 0%, #800000 100%);
+	position: absolute;
+	top: 340%;
+	transform: translateY(-50);
+	z-index: 2;
+}
 
 a{
 	display: block;
